@@ -1,0 +1,102 @@
+.body{
+    background-color: rgb(89, 228, 216);
+    font-family: 'Poppins', sans-serif;
+
+}
+.one{
+    text-align: center;
+}
+.two{
+    color: white;
+    font-size: 200%;
+    font-weight: 10px;
+    text-align: center;
+    margin-top: 35px;
+}
+.line{
+       margin-left: 220px; 
+       margin-right: 150px; 
+        
+    
+}
+
+
+.three{
+    color: white;
+    font-size: 5pxpx;
+     padding: 20px;
+     margin: 20px;
+     margin-left: 200px;
+}
+
+.five{
+    padding-left: 380px;
+    
+    
+}
+.six{
+    display: flex;
+    
+}
+.nine {
+    margin-top: 30px;
+}
+.imgtow{
+         /* padding: 20%; */
+         padding-top: 50px;
+         padding-left: 90px;
+}
+.tenth{
+    /* background-color: rgb(47, 187, 187); */
+    /* padding-left: 5px; */
+    margin: 34px;  
+    border: 2px solid rgb(109, 211, 202);
+    }
+.imgone{
+    padding-left: 40%;
+}
+.formone{
+    font-size: 20px;
+    padding-top: 40px;
+    text-align: center;
+     margin-right: 8px;   
+     color: white;
+}
+.fromtwo{
+       
+        margin-left: 30%;
+        margin-top: 40px; 
+    
+       color: white;
+}
+.fromtwo input{
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.last{
+    background-color: rgb(67, 214, 153);
+     padding: 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border: 2px white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.theend{
+
+    margin-top: 10px;
+    /* margin-right: 20px; */
+    padding-right: 20px; 
+    padding-left: 15px; 
+    /* text-align: center; */
+}
+.theend imgone{
+    background-color: orangered;
+    
+}
+.theend imgtwo{
+    color: aqua;
+    background-color: aqua;
+}
+
